@@ -1,5 +1,12 @@
 @charset "utf-8";
 
 h1 {
-    font size: 20px;
+   background: gold;
+    padding:50px;
+    text-align:center;
+}
+
+.bx-wrapper {
+    border: 0;
+    box-shadow: none;
 }
